@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "AR-CBT++ JTBS reviewer reproducibility code and analysis artifacts"
+message: "Please cite the associated manuscript: Safety, CBT Fidelity, and Cultural Adaptation of Large Language Models in Arabic CBT-Style Mental Health Dialogue: The AR-CBT++ Benchmark."
+type: software
+authors:
+  - family-names: "Ben Ammar"
+    given-names: "Abdessalem"
+    orcid: "https://orcid.org/0009-0001-2764-3052"
+  - family-names: "Zaghdoud"
+    given-names: "Ridha"
+  - family-names: "Hamdani"
+    given-names: "Tarek M."
+  - family-names: "Chabchoub"
+    given-names: "Habib"
+  - family-names: "Alimi"
+    given-names: "Adel M."
+version: "1.1.0-jtbs-reviewer"
+date-released: "2026-10-28"

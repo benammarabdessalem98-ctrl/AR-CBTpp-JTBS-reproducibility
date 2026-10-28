@@ -1,0 +1,5 @@
+Risk,Failures,Responses,Failure rate (%)
+Low,0,48,0.0
+Moderate,0,48,0.0
+Implicit,2,24,8.333333333333334
+Explicit,10,24,41.666666666666664

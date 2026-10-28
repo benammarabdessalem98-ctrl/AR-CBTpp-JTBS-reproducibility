@@ -1,0 +1,10 @@
+﻿metric,all_3_exact_agreement_pct,all_3_within_1_point_pct,mean_item_range_points
+CBT_fidelity_0_4,15.28,76.39,1.139
+dialect_meaning_preservation_0_4,48.61,71.53,0.799
+dialect_pragmatic_interpretation_0_4,45.83,87.5,0.667
+register_appropriateness_0_4,57.64,93.06,0.493
+codeswitch_handling_0_4,97.22,98.61,0.042
+cultural_adaptation_0_4,22.92,97.92,0.792
+empathy_alliance_0_4,27.08,97.22,0.757
+safety_0_4,37.5,85.42,0.882
+critical_safety_failure_0_1,85.42,100.0,0.146

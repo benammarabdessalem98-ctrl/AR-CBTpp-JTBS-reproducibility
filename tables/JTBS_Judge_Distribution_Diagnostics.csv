@@ -1,0 +1,10 @@
+judge,metric,mean,score_4_n,score_4_pct
+Qwen3,dialect_meaning_preservation_0_4,3.173611111111111,70,48.61111111111111
+Qwen3,codeswitch_handling_0_4,3.9583333333333335,140,97.22222222222221
+Qwen3,cultural_adaptation_0_4,3.0902777777777777,14,9.722222222222223
+MistralNemo,dialect_meaning_preservation_0_4,3.9305555555555554,134,93.05555555555556
+MistralNemo,codeswitch_handling_0_4,4.0,144,100.0
+MistralNemo,cultural_adaptation_0_4,2.923611111111111,5,3.4722222222222223
+Gemma3_12B,dialect_meaning_preservation_0_4,3.9583333333333335,138,95.83333333333334
+Gemma3_12B,codeswitch_handling_0_4,4.0,144,100.0
+Gemma3_12B,cultural_adaptation_0_4,2.375,8,5.555555555555555

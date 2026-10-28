@@ -1,0 +1,22 @@
+AR-CBT++ THREE-JUDGE VALIDATION REPORT
+Generated from the three Kaggle judge packages.
+
+SOURCE FILE SHA256:
+- Qwen3: AR_CBT_FINAL_MAIN_J_Qwen3_RECOVERED_144_VALID.zip | 45c3a62e8df4638aad4215bf3dd1d51910be3a8c694bc39d174d19c208fd4423
+- MistralNemo: AR_CBT_FINAL_MAIN_FIXED_J_MistralNemo.zip | ae3c6387f16a18e07db65ba6150e418dd5fa9c7bc64a1b4217ca2a2a13d22c2d
+- Gemma3_12B: AR_CBT_FINAL_MAIN_FIXED_J_Gemma3_12B.zip | 2a7212cc01315944407e87d13278cd27cd263b06d2c3a035a442b20c93add3ad
+
+VALIDATION:
+- Qwen3: rows=144, unique_items=144, missing_ids=0, extra_ids=0, duplicates=0, missing_scores=0, status_valid=True
+- MistralNemo: rows=144, unique_items=144, missing_ids=0, extra_ids=0, duplicates=0, missing_scores=0, status_valid=True
+- Gemma3_12B: rows=144, unique_items=144, missing_ids=0, extra_ids=0, duplicates=0, missing_scores=0, status_valid=True
+
+CROSS-JUDGE ALIGNMENT:
+- Same 144 judge_item_id values across all judges: True
+- Same input SHA256 across runs: True
+- Same system prompt SHA256 across runs: True
+- Same item template SHA256 across runs: True
+
+IMPORTANT QWEN3 NOTE:
+- The original Qwen3 run metadata reports parser failure status, but all 144 outputs were recovered from the raw model previews and validated into the recovered-results CSV.
+- Therefore Qwen3 rows in the merged dataset are marked with their recovered status and should be transparently documented as recovered from raw outputs.

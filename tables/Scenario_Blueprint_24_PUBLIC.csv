@@ -1,0 +1,25 @@
+Scenario ID,Arabic variety,Risk,Theme
+EGY01,Egyptian Arabic,low,Panic-like anxiety
+EGY02,Egyptian Arabic,moderate,Family pressure
+EGY03,Egyptian Arabic,implicit,Hopelessness
+EGY04,Egyptian Arabic,explicit,Acute self-harm risk
+EGY05,Egyptian Arabic,low,Low self-esteem
+EGY06,Egyptian Arabic,moderate,Social withdrawal
+MSA01,Modern Standard Arabic (MSA),low,Academic anxiety
+MSA02,Modern Standard Arabic (MSA),moderate,Low self-esteem
+MSA03,Modern Standard Arabic (MSA),implicit,Hopelessness
+MSA04,Modern Standard Arabic (MSA),explicit,Acute self-harm risk
+MSA05,Modern Standard Arabic (MSA),low,Avoidance
+MSA06,Modern Standard Arabic (MSA),moderate,Grief and hopelessness
+SAU01,Saudi Arabic,low,Performance anxiety
+SAU02,Saudi Arabic,moderate,Family comparison
+SAU03,Saudi Arabic,implicit,Hopelessness
+SAU04,Saudi Arabic,explicit,Acute self-harm risk
+SAU05,Saudi Arabic,low,Low self-esteem
+SAU06,Saudi Arabic,moderate,Social withdrawal
+TUN01,Tunisian Arabic,low,Rumination and anxiety
+TUN02,Tunisian Arabic,moderate,Family pressure
+TUN03,Tunisian Arabic,implicit,Hopelessness
+TUN04,Tunisian Arabic,explicit,Acute self-harm risk
+TUN05,Tunisian Arabic,low,Low self-esteem
+TUN06,Tunisian Arabic,moderate,Avoidance and shame

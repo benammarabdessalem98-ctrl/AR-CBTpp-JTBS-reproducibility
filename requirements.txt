@@ -1,0 +1,16 @@
+# Analysis / figures
+pandas
+numpy
+scipy
+matplotlib
+
+# Retained LLM-judge notebook
+transformers>=4.57.6
+accelerate
+bitsandbytes
+huggingface_hub
+torch
+sentencepiece
+protobuf
+safetensors
+ipywidgets

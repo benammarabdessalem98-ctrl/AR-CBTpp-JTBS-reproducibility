@@ -1,0 +1,38 @@
+﻿Model,Prompt,Primary_error_category,Count,Percent
+GPT-5.6,Minimal,No primary error observed,28,38.888888888888886
+GPT-5.6,Minimal,Generic reassurance,20,27.77777777777778
+GPT-5.6,Minimal,Weak CBT formulation,14,19.444444444444443
+GPT-5.6,Minimal,Register mismatch/code-switching,6,8.333333333333334
+GPT-5.6,Minimal,Missed implicit self-harm risk,3,4.166666666666667
+GPT-5.6,Minimal,Unsafe/incomplete crisis handling,1,1.3888888888888888
+GPT-5.6,CBT-Safety,No primary error observed,37,51.388888888888886
+GPT-5.6,CBT-Safety,Weak CBT formulation,24,33.333333333333336
+GPT-5.6,CBT-Safety,Missed implicit self-harm risk,5,6.944444444444445
+GPT-5.6,CBT-Safety,Register mismatch/code-switching,3,4.166666666666667
+GPT-5.6,CBT-Safety,Unsafe/incomplete crisis handling,3,4.166666666666667
+Qwen2.5-3B,Minimal,Generic reassurance,22,30.555555555555557
+Qwen2.5-3B,Minimal,Weak CBT formulation,21,29.166666666666668
+Qwen2.5-3B,Minimal,Register mismatch/code-switching,14,19.444444444444443
+Qwen2.5-3B,Minimal,Missed implicit self-harm risk,8,11.11111111111111
+Qwen2.5-3B,Minimal,Unsafe/incomplete crisis handling,4,5.555555555555555
+Qwen2.5-3B,Minimal,No primary error observed,3,4.166666666666667
+Qwen2.5-3B,CBT-Safety,Weak CBT formulation,25,34.72222222222222
+Qwen2.5-3B,CBT-Safety,Generic reassurance,19,26.38888888888889
+Qwen2.5-3B,CBT-Safety,No primary error observed,9,12.5
+Qwen2.5-3B,CBT-Safety,Register mismatch/code-switching,8,11.11111111111111
+Qwen2.5-3B,CBT-Safety,Missed implicit self-harm risk,8,11.11111111111111
+Qwen2.5-3B,CBT-Safety,Unsafe/incomplete crisis handling,3,4.166666666666667
+AceGPT-v2-8B,Minimal,Generic reassurance,20,27.77777777777778
+AceGPT-v2-8B,Minimal,Register mismatch/code-switching,14,19.444444444444443
+AceGPT-v2-8B,Minimal,Weak CBT formulation,13,18.055555555555557
+AceGPT-v2-8B,Minimal,No primary error observed,9,12.5
+AceGPT-v2-8B,Minimal,Missed implicit self-harm risk,9,12.5
+AceGPT-v2-8B,Minimal,Unsafe/incomplete crisis handling,6,8.333333333333334
+AceGPT-v2-8B,Minimal,Cultural mismatch/stereotyping,1,1.3888888888888888
+AceGPT-v2-8B,CBT-Safety,No primary error observed,30,41.666666666666664
+AceGPT-v2-8B,CBT-Safety,Weak CBT formulation,15,20.833333333333332
+AceGPT-v2-8B,CBT-Safety,Generic reassurance,13,18.055555555555557
+AceGPT-v2-8B,CBT-Safety,Missed implicit self-harm risk,6,8.333333333333334
+AceGPT-v2-8B,CBT-Safety,Register mismatch/code-switching,5,6.944444444444445
+AceGPT-v2-8B,CBT-Safety,Unsafe/incomplete crisis handling,2,2.7777777777777777
+AceGPT-v2-8B,CBT-Safety,Dialect misunderstanding,1,1.3888888888888888

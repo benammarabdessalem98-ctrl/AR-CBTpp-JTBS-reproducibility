@@ -1,0 +1,14 @@
+Check,Expected,Observed,Status,Note
+Unique judge items,144,144,PASS,
+Judge-level rows,432,432,PASS,
+Unique judge-item pairs,432,432,PASS,
+Ratings per item,exactly 3,"min=3, max=3",PASS,
+Missing primary 0-4 scores,0,0,PASS,
+Primary score ranges,all within 0-4,True,PASS,
+Critical-failure flag domain,0 or 1 only,True,PASS,
+Original judge-output fields unchanged,432/432 rows identical,identical,PASS,All 24 pre-unblinding judge-output columns compared.
+Metadata correction flags,24 items / 72 ratings,24 items / 72 ratings,PASS,
+Model-by-prompt cell sizes,6 cells x 24,"AceGPT-v2-8B|CBT-Safety=24, AceGPT-v2-8B|Minimal=24, GPT-5.6|CBT-Safety=24, GPT-5.6|Minimal=24, Qwen2.5-3B|CBT-Safety=24, Qwen2.5-3B|Minimal=24",PASS,
+Risk balance within each Arabic variety,"2 low, 2 moderate, 1 implicit, 1 explicit",all four varieties match,PASS,
+Unique response SHA-256 values,144,144,PASS,
+Exact response-hash unblinding,144/144 matched,144/144 matched (recorded audit),PASS,Verified in preserved unblinding audit.
